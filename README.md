@@ -26,15 +26,17 @@ The dashboard integrates multiple analytical perspectives including:
 -	**Time Period:** 2015 – 2018
   
 ### 🙏 Acknowledgements
-- Fabian Constante, Fernando Silva, António Pereira
-  
-- Universidad Central del Ecuador
+- Contributors: Fabian Constante, Fernando Silva, António Pereira
+- Universidad Central o the odel Ecuador
 - Instituto Politecnico de Leiria Centro de Investigacao em Informatica e Comunicacoes
 
-🔗 Additional Source:
+🔗 Source:
 - https://data.mendeley.com/datasets/8gx2fvg2k6/5
 
-⚠️ **Note: This dataset is strictly used for educational and learning purposes without any modifications.**
+### ⚠️ Data Usage
+- This dataset is used strictly for educational and learning purposes only
+- No modifications have been made to original dataset structure
+
 
 ## 📊 Dashboard
 
