@@ -8,7 +8,7 @@ The dashboard integrates multiple analytical perspectives including:
 - Supply chain performance 
 -	Customer segmentation 
 -	Time-series trend analysis 
--	Forecasting using ARIMA 
+-	Forecasting using ARIMA through R Prgramming
 
 ## 🎯 Project Objectives
 -	Analyze overall sales, profit, and operational performance 
