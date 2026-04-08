@@ -20,9 +20,18 @@ The dashboard integrates multiple analytical perspectives including:
 -	Forecast future sales and profit for strategic planning 
 
 ## 📂 Data Source
--	Source: Kaggle 
+### 📊 Dataset Overview
+-	Source: Kaggle - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
+-	Dataset Type: DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
 -	Time Period: 2015 – 2018
   
+### 🙏 Acknowledgements
+Fabian Constante, Fernando Silva, António Pereira
+Instituto Politecnico de Leiria Escola Superior de Tecnologia e Gestao
+Contribution: Master interested in topics related to Big Data
+
+https://data.mendeley.com/datasets/8gx2fvg2k6/5
+
 ⚠️ Note: This dataset is strictly used for educational and learning purposes without any modifications.
 
 ## 🧪 Tools & Technologies
