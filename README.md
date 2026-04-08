@@ -27,6 +27,7 @@ The dashboard integrates multiple analytical perspectives including:
   
 ### 🙏 Acknowledgements
 Fabian Constante, Fernando Silva, António Pereira
+
 Instituto Politecnico de Leiria Escola Superior de Tecnologia e Gestao
 Contribution: Master interested in topics related to Big Data
 
