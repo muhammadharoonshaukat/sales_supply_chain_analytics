@@ -21,17 +21,22 @@ The dashboard integrates multiple analytical perspectives including:
 
 ## 📂 Data Source
 ### 📊 Dataset Overview
--	Source: Kaggle - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
--	Dataset Type: DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
--	Time Period: 2015 – 2018
+-	**Source:** Kaggle - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
+-	**Dataset Name:** DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
+-	**Time Period:** 2015 – 2018
   
 ### 🙏 Acknowledgements
-- Fabian Constante, Fernando Silva, António Pereira
+- Fabian Constante
+-  Fernando Silva,
+-   António Pereira
+  
 - Universidad Central del Ecuador
 - Instituto Politecnico de Leiria Centro de Investigacao em Informatica e Comunicacoes
+
+🔗 Additional Source:
 - https://data.mendeley.com/datasets/8gx2fvg2k6/5
 
-⚠️ Note: This dataset is strictly used for educational and learning purposes without any modifications.
+⚠️ **Note: This dataset is strictly used for educational and learning purposes without any modifications.**
 
 ## 📊 Dashboard
 
